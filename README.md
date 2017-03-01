@@ -11,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   money:
-    github: tegon/money
+    github: tegon/money.cr
 ```
 
 # Usage
